@@ -12,7 +12,7 @@ function home() {
       <main className="main-section">
         <label htmlFor="fundSelect">Select a Fund:</label>
         <select id="fundSelect" className="dropdown">
-          <option value="QQQ">QQQ</option>
+          <option value="QQQ">QQaQ</option>
           <option value="VTI">VTI</option>
         </select>
 
